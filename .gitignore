@@ -1,3 +1,4 @@
 .env
+.vscode
 .deno_plugins
 /*.http
